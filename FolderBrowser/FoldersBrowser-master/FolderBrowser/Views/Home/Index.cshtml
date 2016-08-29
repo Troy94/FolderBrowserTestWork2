@@ -1,0 +1,35 @@
+﻿<div ng-app="FilesSystem" class="container">
+    <div ng-controller="FilesSystemController as DirControl" data-ng-init="DirControl.GetDirectoryData()">
+        
+            <table ng-show="DirControl.HasParent()" class="table table-bordered fstable">
+                <thead class="headFstable">
+                    <tr>
+                        <td>Less 10Mb</td>
+                        <td>10Mb-50Mb</td>
+                        <td>More 100Mb</td>
+                    </tr>
+                </thead>
+               <tbody>
+                   <tr>
+                       <td>{{DirControl.Model.QuantitySize10}}</td>
+                       <td>{{DirControl.Model.QuantitySize50}}</td>
+                       <td>{{DirControl.Model.QuantitySize100}}</td>
+                   </tr>
+               </tbody>
+            </table>
+        
+         <p><strong>Current path :</strong>{{DirControl.Model.CurrentPath}}</p>
+        
+            <ul class="spisokFstable" >
+                <li ng-show="DirControl.HasParent()"><a href="" ng-click="DirControl.GetDirectoryData('')">..</a></li>
+                <li ng-repeat="Directory in DirControl.Model.Folders"><a href="" ng-click="DirControl.GetDirectoryData(Directory)">{{Directory}}</a></li>
+                <li ng-repeat="File in DirControl.Model.Files">{{File}}</li>
+            </ul>
+        
+    </div>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/Scripts/angular.js")
+    @Scripts.Render("~/Scripts/app.js")
+}

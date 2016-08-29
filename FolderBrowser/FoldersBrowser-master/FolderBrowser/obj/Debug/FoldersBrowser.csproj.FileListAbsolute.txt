@@ -1,0 +1,164 @@
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\csc.exe
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\vbc.exe
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\FolderBrowser.dll.config
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\FolderBrowser.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\FolderBrowser.pdb
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\Antlr3.Runtime.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\Newtonsoft.Json.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Net.Http.Formatting.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Helpers.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Http.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Http.WebHost.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Mvc.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Optimization.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Razor.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.WebPages.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\WebGrease.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\Newtonsoft.Json.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Net.Http.Formatting.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Helpers.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Http.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Http.WebHost.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Mvc.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Optimization.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.Razor.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.WebPages.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\bin\Antlr3.Runtime.pdb
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\obj\Debug\FoldersBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\obj\Debug\FolderBrowser.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FolderBrowser\FolderBrowser\obj\Debug\FolderBrowser.pdb
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\csc.exe
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\vbc.exe
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\FolderBrowser.dll.config
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\FolderBrowser.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\FolderBrowser.pdb
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\Antlr3.Runtime.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\Newtonsoft.Json.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Net.Http.Formatting.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Helpers.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Http.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Http.WebHost.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Mvc.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Optimization.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Razor.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.WebPages.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\WebGrease.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\Newtonsoft.Json.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Net.Http.Formatting.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Helpers.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Http.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Http.WebHost.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Mvc.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Optimization.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.Razor.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.WebPages.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\Antlr3.Runtime.pdb
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\obj\Debug\FolderBrowser.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\obj\Debug\FolderBrowser.pdb
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\csc.exe.config
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\csc.rsp
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\csi.exe
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\csi.rsp
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\System.AppContext.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\vbc.exe.config
+C:\Users\Yuraga\Documents\Visual Studio 2015\Projects\FoldersBrowser\FolderBrowser\bin\roslyn\vbc.rsp
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\obj\Debug\FoldersBrowser.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\csc.exe
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\csc.exe.config
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\csc.rsp
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\csi.exe
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\csi.rsp
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\System.AppContext.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\System.Collections.Immutable.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\System.IO.FileSystem.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\System.Reflection.Metadata.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\vbc.exe
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\vbc.exe.config
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\vbc.rsp
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\VBCSCompiler.exe
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\roslyn\VBCSCompiler.exe.config
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\FolderBrowser.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\FolderBrowser.pdb
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\Antlr3.Runtime.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\Microsoft.Web.Infrastructure.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\Newtonsoft.Json.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Net.Http.Formatting.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Helpers.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Http.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Http.WebHost.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Mvc.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Optimization.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Razor.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.WebPages.Deployment.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.WebPages.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.WebPages.Razor.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\WebGrease.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\Antlr3.Runtime.pdb
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\Newtonsoft.Json.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Net.Http.Formatting.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Helpers.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Http.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Http.WebHost.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Mvc.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Optimization.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.Razor.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.WebPages.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.WebPages.Deployment.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\bin\System.Web.WebPages.Razor.xml
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\obj\Debug\FolderBrowser.dll
+D:\WorkSpace\Тест.задание.на.удалёнку\пробник\т2\FolderBrowser\FoldersBrowser-master\FolderBrowser\obj\Debug\FolderBrowser.pdb
